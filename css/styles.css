@@ -4,3 +4,9 @@ body{
 li{
     list-style: none
 }
+#imgH{
+    width: 70px;
+}
+#imgF{
+    width: 150px;
+}
